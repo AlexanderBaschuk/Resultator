@@ -1,0 +1,56 @@
+.main_table {
+	display: block;
+	vertical-align:top;
+}
+
+.adjudicator {
+	display: inline-block;
+	vertical-align:top;
+	margin-right: 18pt;
+}
+
+.total_results {
+	display: inline-block;
+}
+
+.adjudicator_name {
+	display: block;
+}
+
+.competitor_names {
+	display: inline-block;
+}
+
+.round_scores {
+	display: inline-block;
+}
+
+.scores_sum {
+	display: inline-block;
+}
+
+.round_grids {
+	display: inline-block;
+}
+
+.competitor_name {
+	display: block;
+	margin-right: 12pt;
+}
+
+.score {
+	display: block;
+	margin-right: 6pt;
+}
+
+.score_sum {
+	display: block;
+	margin-right: 6pt;
+}
+
+.grid {
+	display: block;
+	margin-right: 6pt;
+}
+
+
